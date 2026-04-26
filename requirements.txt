@@ -1,0 +1,8 @@
+tensorflow
+transformers
+pandas
+torch
+numpy
+sklearn
+matplotlib
+os
