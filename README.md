@@ -3,7 +3,7 @@ HackAI-Intro-fine-tune-LLMs
 
 Collection of materials to introduce Python programmers to fine-tuning and instruction tuning.
 
-1. Fine-tune the BERT LLM on debate text labelled as from UK Labour and Conservative Party politicians. For completeness the notebook used to scrape parliamentary debates is also included in this repo.
+1. Fine-tune the BERT LLM on debate text labelled as being from UK Labour and Conservative Party politicians' contributions. For completeness the notebook used to scrape parliamentary debates is also included in this repo.
 
 2. Instruction-tune TK-instruct, using the InstructABSA approach and templates.
 
