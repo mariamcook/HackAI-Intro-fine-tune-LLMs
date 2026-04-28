@@ -9,7 +9,7 @@ This repo was developed to support an afternoon training session with the follow
 
 2. Locally prompt the InstructABSA model for aspect term extraction and aspect-based sentiment analysis (already fine-tuned version of TK-instruct, an instruction-tuned version of the T5 LLM), using the InstructABSA prompt templates.
 
-3. Use BERT embeddings to compare language used about policies in different year under different governments (common crawl source files and restricted versions of this data also included in the data folder)
+3. Use BERT embeddings to compare language used about policies in different year under different governments (common crawl source files and subsets of this data from the Bristol Web Archives for Social Sciences Datathon https://www.urbaneconomies.co.uk/datathon.html also included in the data folder)
 
 We will be working on Google Colab, if you are working in a different environment please see the requirements.txt and make the necessary adapatations to model saving. 
 
