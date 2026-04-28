@@ -3,7 +3,7 @@ HackAI-Intro-fine-tune-LLMs
 
 Collection of materials to introduce Python programmers to fine-tuning, instruction tuning and working with contextual embeddings.
 
-This repo was developed to support an afternoon tutorial as part of the University of Exeter Institute for Data Science and AI HACK AI Hackathon series with the following goals:
+This repo was developed to support an afternoon tutorial run by Mariam Cook as part of the University of Exeter Institute for Data Science and AI HACK AI Hackathon series with the following goals:
 
 1. Fine-tune the BERT LLM on debate text labelled as being from UK Labour and Conservative Party politicians' contributions. (For completeness the notebook used to scrape parliamentary debates is also included in this repo).
 
