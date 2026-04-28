@@ -1,5 +1,4 @@
 # HackAI-Intro-fine-tune-LLMs
-HackAI-Intro-fine-tune-LLMs
 
 Collection of materials to introduce Python programmers to fine-tuning, instruction tuning and working with contextual embeddings.
 
